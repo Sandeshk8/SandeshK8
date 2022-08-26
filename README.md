@@ -1,4 +1,4 @@
-[![MasterHead](https://www.zealousweb.com/wp-content/uploads/2020/05/Banner-2.jpg)]
+![MasterHead](https://www.zealousweb.com/wp-content/uploads/2020/05/Banner-2.jpg)
 <h1 align="center">Hi 👋, I'm Sandesh kadam</h1>
 <h3 align="center">A passionate App developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/xMmwPOqFFSAAAAAC/aesthetic-typing.gif">
