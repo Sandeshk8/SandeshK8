@@ -1,4 +1,3 @@
-![MasterHead](https://www.zealousweb.com/wp-content/uploads/2020/05/Banner-2.jpg)
 <h1 align="center">Hi 👋, I'm Sandesh</h1>
 <h3 align="center">A passionate Learner from India</h3>
 
