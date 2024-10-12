@@ -1,7 +1,7 @@
 Hi 👋 My name is Sandesh
 ========================
 
-I am Passionate Backend developer with 1 year of professional experience in Spring boot , Django and some Web dev (Angular). Enthusiastic about open source projects. Coding is my playground, let's build something amazing together!
+I am Passionate Backend developer with 2 year of professional experience in Spring boot , Django and some Web dev (Angular). Enthusiastic about open source projects. Coding is my playground, let's build something amazing together!
 
 * 🌍  I'm based in India and roam around like a nomad thanks to remote job
 * 🖥️  See my portfolio at [Needs an update 😅](http://sandeshk8.netlify.app/)
